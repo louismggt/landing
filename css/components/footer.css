@@ -1,0 +1,29 @@
+.footer {
+  background-color: #3f3f3f;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.social {
+  margin: 0 auto;
+  width: 200px;
+  text-decoration: none;
+}
+
+.inline-list {
+  font-size: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  padding: 20px 0px;
+}
+
+.footer a {
+  color: #040404;
+}
+
+.footer a:hover {
+  color: #ffffff;
+}
